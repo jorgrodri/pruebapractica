@@ -1,0 +1,23 @@
+[33mcommit 7ea7461298166933d7e55f01fbd5ac6a6ca2267a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Jorge Rodriguez <jorgrodriguezing@gmail.com>
+Date:   Fri Oct 18 08:21:14 2024 -0400
+
+    agregue 2 pruebas
+
+[33mcommit 913e3e96b735efd6ed079d3b4b2b270edcd94743[m
+Author: Jorge Rodriguez <jorgrodriguezing@gmail.com>
+Date:   Wed Oct 16 14:50:44 2024 -0400
+
+    se elimino archivo y se cambio el nombre
+
+[33mcommit d4b8f44fb7f407211838c72c6196aa8dd0564a72[m
+Author: Jorge Rodriguez <jorgrodriguezing@gmail.com>
+Date:   Wed Oct 16 14:28:59 2024 -0400
+
+    Cambios confirmados
+
+[33mcommit 7a45e27bf38d6cc0dc74c9549e65bd03371ee180[m
+Author: Jorge Rodriguez <jorgrodriguezing@gmail.com>
+Date:   Wed Oct 16 14:02:02 2024 -0400
+
+    se anade el archivo prueba1
